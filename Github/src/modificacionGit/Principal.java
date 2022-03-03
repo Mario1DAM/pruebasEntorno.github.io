@@ -6,6 +6,9 @@ public class Principal {
 		System.out.println("Esta prueba mola");
 		System.out.println();
 		System.out.println("Prueba numero 1");
+		System.out.println("XDD");
+		System.out.println("LOLLLL");
+		System.out.println("1+1 son 7");
 	}
 	
 }
